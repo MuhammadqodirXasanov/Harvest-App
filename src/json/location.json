@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Qarshi tumani",
+        "area": 1500,
+        "date": "15/APR/2020",
+        "place": 5
+    },
+    {
+        "id": 2,
+        "name": "Kitob tumani",
+        "area": 1505,
+        "date": "21/MAR/2019",
+        "place": 7
+    },
+    {
+        "id": 3,
+        "name": "Zangiota tumani",
+        "area": 1600,
+        "date": "08/JUN/2021",
+        "place": 3
+    },
+    {
+        "id": 4,
+        "name": "Yangiyol tumani",
+        "area": 1200,
+        "date": "12/SEN/2018",
+        "place": 6
+    },
+    {
+        "id": 5,
+        "name": "Chiroqchi tumani",
+        "area": 1700,
+        "date": "10/OCT/2014",
+        "place": 4
+    },
+    {
+        "id": 6,
+        "name": "Bekobod tumani",
+        "area": 1300,
+        "date": "24/AUG/2008",
+        "place": 2
+    },
+    {
+        "id": 7,
+        "name": "Chilonzor tumani",
+        "area": 1100,
+        "date": "02/JAN/2003",
+        "place": 8
+    },
+    {
+        "id": 8,
+        "name": "Yunusobod tumani",
+        "area": 1400,
+        "date": "12/FEB/1998",
+        "place": 5
+    },
+    {
+        "id": 9,
+        "name": "Farg'ona tumani",
+        "area": 1900,
+        "date": "14/MAY/2005",
+        "place": 3
+    },
+    {
+        "id": 10,
+        "name": "Hamza tumani",
+        "area": 1550,
+        "date": "20/JUL/2011",
+        "place": 6
+    },
+    {
+        "id": 12,
+        "name": "Mirzo Ulug'bek tumani",
+        "area": 1320,
+        "date": "27/SEN/2016",
+        "place": 7
+    },
+    {
+        "id": 13,
+        "name": "Ohangaron tumani",
+        "area": 1460,
+        "date": "30/AUG/2010",
+        "place": 1
+    },
+    {
+        "id": 14,
+        "name": "Samarqand tumani",
+        "area": 1257,
+        "date": "23/DEC/2024",
+        "place": 2
+    },
+    {
+        "id": 15,
+        "name": "Yakkasaroy tumani",
+        "area": 1358,
+        "date": "15/NOV/2001",
+        "place": 8
+    },
+    {
+        "id": 16,
+        "name": "Zomin tumani",
+        "area": 1698,
+        "date": "21/JAN/1993",
+        "place": 9
+    }
+]
